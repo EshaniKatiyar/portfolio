@@ -33,7 +33,7 @@ export function Showcase() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-120px" }}
           transition={{ duration: 1.6, ease: [0.22, 1, 0.36, 1] }}
-          className="display text-[14vw] md:text-[10vw] leading-[0.85]"
+          className="display text-[9vw] md:text-[5vw] leading-[0.85]"
         >
           Achievements & Awards
         </motion.h2>
