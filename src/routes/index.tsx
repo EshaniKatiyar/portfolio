@@ -19,10 +19,10 @@ import { Curtain } from "@/components/portfolio/Curtain";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Eshani Katiyar — Engineer & Researcher" },
-      { name: "description", content: "Portfolio of an engineer working at the edge of quantum computing, agentic AI, and full-stack systems." },
-      { property: "og:title", content: "Eshani Katiyar — Engineer & Researcher" },
-      { property: "og:description", content: "Selected works across quantum, agentic AI, and production engineering." },
+      { title: "Portfolio" },
+      { name: "description", content: "Portfolio of an engineer working at the edge of agentic AI, and full-stack systems." },
+      { property: "og:title", content: "Portfolio" },
+      { property: "og:description", content: "Selected works across agentic AI, and production engineering." },
     ],
   }),
   component: Index,

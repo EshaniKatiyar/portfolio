@@ -1,7 +1,6 @@
 import { motion, useScroll, useVelocity, useTransform, useSpring } from "motion/react";
 
-const tokens = ["QISKIT", "PYTORCH", "LLM", "BB84", "AGENTIC", "RUST", "WASM", "GRAPHQL", "KAFKA", "GPU", "TYPESCRIPT", "POSTGRES", "VECTOR DB", "CUDA"];
-
+const tokens = ["PYTHON", "JAVA", "C", "C++", "JAVASCRIPT", "TYPESCRIPT", "SQL", "REACT", "NEXT.JS", "FASTAPI", "MACHINE LEARNING", "FULL-STACK"];
 export function Marquee() {
   const { scrollY } = useScroll();
   const v = useVelocity(scrollY);
