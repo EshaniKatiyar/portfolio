@@ -14,7 +14,7 @@ export function Capabilities() {
       <SectionLabel />
 
       <div className="px-6 md:px-16 pt-24 pb-12 grid grid-cols-1 md:grid-cols-12 gap-8 items-end">
-        <h2 className="display text-[14vw] md:text-[10vw] md:col-span-8">Focus Areas</h2>
+        <h2 className="display text-[9vw] md:text-[5vw] md:col-span-8">Focus Areas</h2>
         <div className="font-mono text-sm md:col-span-4 md:text-right space-y-1 text-muted-foreground">
           <div>&nbsp;</div>
           <div>&nbsp;</div>

@@ -15,7 +15,7 @@ export function Log() {
       <SectionLabel />
 
       <div className="px-6 md:px-16 pt-24 pb-12">
-        <h2 className="display text-[14vw] md:text-[10vw]">Experience & Student Clubs</h2>
+        <h2 className="display text-[9vw] md:text-[5vw]">Experience & Student Clubs</h2>
       </div>
 
       <div className="px-6 md:px-16 pb-32">

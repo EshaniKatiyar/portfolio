@@ -146,7 +146,7 @@ export function Vault() {
       <SectionLabel />
 
       <div className="px-6 md:px-16 pt-24 pb-10">
-        <h2 className="display text-[14vw] md:text-[10vw]">My Projects</h2>
+        <h2 className="display text-[9vw] md:text-[5vw]">My Projects</h2>
         <p className="font-mono text-sm md:text-base max-w-xl mt-10 text-muted-foreground">
           All the things that I've built, broken, and rebuilt until they worked.
         </p>
